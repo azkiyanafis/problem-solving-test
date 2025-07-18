@@ -99,7 +99,7 @@ class _DenserankingState extends State<Denseranking> {
               ),
               SizedBox(height: 20),
               Card(elevation: 10,
-                  color: Colors.lightBlue[200],
+                  color: Colors.indigo[200],
                   child: Padding(
                       padding: EdgeInsets.all(50),
                       child: Column(
