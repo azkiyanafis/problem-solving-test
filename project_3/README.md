@@ -1,4 +1,4 @@
-# project_3
+# ✅ Project 3 : Highest Palindrome App
 
 A new Flutter project.
 
