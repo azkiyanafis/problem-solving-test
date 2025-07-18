@@ -1,4 +1,4 @@
-# project_2
+# ✅ Project 2 : Dense Ranking App
 
 A new Flutter project.
 
